@@ -1,1 +1,1 @@
-# hexa-studios.github.io
+# Hexa Studios Holding Page
