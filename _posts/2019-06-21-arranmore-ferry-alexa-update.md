@@ -1,10 +1,11 @@
 ---
 title: Arranmore Ferry Alexa Update
 slug: arranmore-ferry-alexa-update
-date_published: 2019-06-21T10:11:50.000Z
+date: 2019-06-21T10:11:50.000Z
 date_updated: 2019-06-21T11:03:47.000Z
 tags: Arranmore, Alexa
-excerpt: We've updated the Arranmore Ferry Alexa skill to be more conversational! Check out how to access the new features!
+description: We've updated the Arranmore Ferry Alexa skill to be more conversational! Check out how to access the new features!
+featured_image: /images/2019/06/IMG_20190620_170559.jpg
 ---
 
 We've updated the Arranmore Ferry Alexa skill to be more conversational!
@@ -21,11 +22,15 @@ This will start a conversation with the Arranmore Ferry team, you can then ask f
 > What are the sailings tomorrow?
 > What time are the ferries today?
 
-![](/images/2019/06/IMG_20190620_170559.jpg)
-
-![](/images/2019/06/MVIMG_20190620_170613.jpg)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2019/06/IMG_20190620_170559.jpg,/images/2019/06/MVIMG_20190620_170613.jpg"
+	alts="Alexa Spot device with Arranmore Ferry,Alexa Spot with a full response from Arranmore Ferry"
+%}
 
 Arranmore Ferry's Alexa on the Echo Spot
+
 # I don't have Alexa
 
 For those without an Alexa device, you can still use the voice assistant by downloading the Android [Alexa app](https://play.google.com/store/apps/details?id=com.amazon.dee.app&amp;hl=en) or the [iOS](https://apps.apple.com/gb/app/amazon-alexa/id944011620).
@@ -33,9 +38,12 @@ Simply login to an Amazon account and start talking to Alexa as if you had one o
 
 Alexa will give you all the relevant information, completely up to date with the [website](https://arranmorefastferry.com) and [Android](https://play.google.com/store/apps/details?id=com.matloughnane.arranmoreff&amp;hl=en_GB) and [iOS](https://apps.apple.com/app/arranmore-ferry/id964609530) apps.
 
-![](/images/2019/06/Screenshot_20190620-170925-1.jpg)
-
-![](/images/2019/06/Screenshot_20190620-170935-1.jpg)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2019/06/Screenshot_20190620-170925-1.jpg,/images/2019/06/Screenshot_20190620-170935-1.jpg"
+	alts="Mobile App with Arranmore Ferry,Mobile App with a full response from Arranmore Ferry"
+%}
 
 Arranmore Ferry Alexa Skill on the Android Alexa Application
 We had great fun sneaking an Easter egg into the Alexa skill too.

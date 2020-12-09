@@ -1,10 +1,11 @@
 ---
 title: A Distillery Idea for Arranmore Island
 slug: a-distillery-idea-for-arranmore-island
-date_published: 2019-07-08T22:39:03.000Z
+date: 2019-07-08T22:39:03.000Z
 date_updated: 2019-07-08T22:39:03.000Z
 tags: Arranmore, Website
-excerpt: There's a new idea, a proposal, for a distillery in Arranmore Island. An opportunity to promote the island and create brand new jobs.
+description: There's a new idea, a proposal, for a distillery in Arranmore Island. An opportunity to promote the island and create brand new jobs.
+featured_image: /images/2019/07/Screenshot-2019-07-08-at-23.38.35_o.png
 ---
 
 There's a new idea, a proposal, for a distillery in Arranmore Island. An opportunity to promote the island and create brand new jobs.

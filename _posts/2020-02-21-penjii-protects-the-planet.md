@@ -1,10 +1,11 @@
 ---
 title: Penjii Protects the Planet
 slug: penjii-protects-the-planet
-date_published: 2020-02-21T13:38:30.000Z
+date: 2020-02-21T13:38:30.000Z
 date_updated: 2020-02-21T13:42:25.000Z
 tags: App, Caped Koala
-excerpt: I wanted to take a moment to share some of my work from my day job. We've just released a new mobile endless runner game, Penjii Protects the Planet
+description: I wanted to take a moment to share some of my work from my day job. We've just released a new mobile endless runner game, Penjii Protects the Planet
+featured_image: /images/2020/02/GlamourImage_o.png
 ---
 
 I wanted to take a moment to share some of my work from my day job. We've just released a new mobile endless runner game, Penjii Protects the Planet, the following is the release blog from the [Caped Koala website](https://capedkoala.com/penjii-protects-the-planet/).
@@ -60,11 +61,13 @@ More details about the game can also be found on our [blog post about the platfo
 
 # Download Now
 
-The app is available now on Android and iOS
+The app is available now on Android and iOS.
 
-[![Get it on Google Play](https://play.google.com/intl/en_gb/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.capedkoala.penjisplanet&hl=en&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
-[![Get it on the Apps Store](https://i1.wp.com/incipia.co/wp-content/uploads/2017/10/app-store.png)](https://apps.apple.com/us/app/penjii-protects-the-planet/id1463393382)
+{% include post-components/app-buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=com.capedkoala.penjisplanet"
+	ios = "https://apps.apple.com/us/app/penjii-protects-the-planet/id1463393382"
+%}
 
 # Credits
 

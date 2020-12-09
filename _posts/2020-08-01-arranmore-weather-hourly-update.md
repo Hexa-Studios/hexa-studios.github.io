@@ -1,10 +1,11 @@
 ---
 title: Update to Arranmore Weather to keep up with Arranmore's Weather
 slug: arranmore-weather-hourly-update
-date_published: 2020-07-31T23:39:00.000Z
+date: 2020-07-31T23:39:00.000Z
 date_updated: 2020-08-17T16:55:09.000Z
 tags: App, Arranmore, #news
-excerpt: It's said that you can get 4 seasons in a day in Arranmore so here's an update to keep up with the weather.
+description: It's said that you can get 4 seasons in a day in Arranmore so here's an update to keep up with the weather.
+featured_image: /images/2020/07/Artboard2-opt_o-1.png
 ---
 
 It's said that you can get 4 seasons in a day in Arranmore so here's an update to keep up with the weather.
@@ -45,6 +46,8 @@ Thanks to everyone has downloaded the app so far and suggested improvements and 
 
 The app is available for download now on [Google Play](https://play.google.com/store/apps/details?id=co.hexastudios.arranmoreweather) and [Apple's App Store](https://apps.apple.com/us/app/arranmore-weather/id1514928374?ls=1).
 
-[![Get it on Google Play](https://play.google.com/intl/en_gb/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=co.hexastudios.arranmoreweather)
-
-[![Get it on the Apps Store](https://i1.wp.com/incipia.co/wp-content/uploads/2017/10/app-store.png)](https://apps.apple.com/us/app/arranmore-weather/id1514928374?ls=1)
+{% include post-components/app-buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=co.hexastudios.arranmoreweather"
+	ios = "https://apps.apple.com/us/app/arranmore-weather/id1514928374?ls=1"
+%}

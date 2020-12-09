@@ -1,10 +1,11 @@
 ---
 title: It's beginning to look a lot like Christmas...
 slug: its-beginning-to-look-a-lot-like-christmas
-date_published: 2019-12-09T13:43:00.000Z
+date: 2019-12-09T13:43:00.000Z
 date_updated: 2019-12-09T13:43:27.000Z
 tags: Arranmore, Tory, App
-excerpt: The Arranmore and Tory ferry apps are ready for Christmas, are you?
+description: The Arranmore and Tory ferry apps are ready for Christmas, are you?
+featured_image: /images/2019/12/Christmas-Poster-opt.jpg
 ---
 
 The [Arranmore](https://arranmorefastferry.com/app) and [Tory](https://toryferry.com/app) ferry apps are ready for Christmas, are you?

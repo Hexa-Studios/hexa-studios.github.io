@@ -1,10 +1,11 @@
 ---
 title: Tory Ferry works with Amazon's Alexa
 slug: tory-ferry-works-with-amazons-alexa
-date_published: 2019-05-09T11:47:00.000Z
+date: 2019-05-09T11:47:00.000Z
 date_updated: 2019-05-09T11:47:00.000Z
 tags: Tory, Alexa
-excerpt: The Tory Ferry team now has Alexa integration, ask your Alexa device or phone for the latest times today!
+description: The Tory Ferry team now has Alexa integration, ask your Alexa device or phone for the latest times today!
+featured_image: "/images/2019/04/toryferry_alexa_poster_o.png"
 ---
 
 The [Tory Ferry](https://toryferry.com/alexa) service is proud to announce a new integration with Amazon's Alexa!

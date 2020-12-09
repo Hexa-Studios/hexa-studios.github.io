@@ -1,10 +1,11 @@
 ---
 title: Tory Ferry gets Notifications
 slug: tory-ferry-gets-notifications
-date_published: 2020-06-25T21:59:30.000Z
+date: 2020-06-25T21:59:30.000Z
 date_updated: 2020-06-26T08:08:29.000Z
 tags: App, Tory
-excerpt: A huge update for the Tory Ferry app - the team are now able to send notifications to your phone for updates about changes to the service and news from the ferry team!
+description: A huge update for the Tory Ferry app - the team are now able to send notifications to your phone for updates about changes to the service and news from the ferry team!
+featured_image: /images/2020/06/tiny-shareimage.png
 ---
 
 A huge update for the Tory Ferry app - the team are now able to send notifications to your phone for updates about changes to the service and news from the ferry team!
@@ -15,11 +16,12 @@ By default the apps don't have the ability to get notifications - you will have 
 
 In the latest update you'll see an orange button inviting you to set up the notifications. Simply swipe through the instructions and switch on which updates you'd like receive.
 
-![](/images/2020/06/Screenshot_20200625-212957.jpg)
-
-![](/images/2020/06/Screenshot_20200625-213014.jpg)
-
-![](/images/2020/06/Screenshot_20200625-213036.jpg)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2020/06/Screenshot_20200625-212957.jpg,/images/2020/06/Screenshot_20200625-213014.jpg,/images/2020/06/Screenshot_20200625-213036.jpg"
+	alts="Tory Ferry Notifications,Tory Ferry Notifications,Tory Ferry Notifications"
+%}
 
 Setting Up Tory Ferry Notifications in 3 swipes
 ## Notification Types
@@ -35,11 +37,12 @@ The ferry team will be using these notifications sparingly so as not to annoy cu
 
 If the notifications aren't proving useful - you can always change the settings on the "MyFerry" page. There's also a link included to jump into the notification set up page again.
 
-![](/images/2020/06/Screenshot_20200625-213639.jpg)
-
-![](/images/2020/06/Screenshot_20200625-213051-1.jpg)
-
-![](/images/2020/06/IMG_0002.jpg)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2020/06/Screenshot_20200625-213639.jpg,/images/2020/06/Screenshot_20200625-213051-1.jpg,/images/2020/06/IMG_0002.jpg"
+	alts="Tory Ferry Notifications,Tory Ferry Notifications,Tory Ferry Notifications"
+%}
 
 Notifications on Android, iOS and where to turn them off.
 # Privacy
@@ -51,3 +54,10 @@ No personal data is stored about you and by default each device does not have no
 # Up Next
 
 This is the biggest update to the Tory Ferry app - let the Tory Ferry team know what you think of the latest updates via [Facebook](https://www.facebook.com/toryislandferry).
+
+{% include post-components/app-buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=co.hexastudios.toryferry"
+	ios = "https://apps.apple.com/us/app/tory-ferry/id1367177195"
+%}
+

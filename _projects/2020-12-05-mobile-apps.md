@@ -89,7 +89,7 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg"
+	images = "/images/demo.jpg,/images/profile.jpg,/images/demo.jpg"
 %}
 
 #### What about videos?
@@ -106,4 +106,4 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 We've packed this theme with powerful features to show off your work.
 Why not put them to use on your new website?
 
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill" style="padding-top:17px;">Get This Theme</a>

@@ -1,14 +1,16 @@
 ---
 title: Teacher's Feedback Generator
 slug: teachers-feedback-generator
-date_published: 2020-05-11T08:12:00.000Z
+date: 2020-05-11T08:12:00.000Z
 date_updated: 2020-05-11T19:19:59.000Z
 tags: Website
-excerpt: This is a small web app to help teachers quickly give feedback to their students with printer friendly advice slips.
+description: This is a small web app to help teachers quickly give feedback to their students with printer friendly advice slips.
+featured_image: /images/2020/05/Screenshot-2020-05-11-at-19.32.45-1.png
 ---
 
 This is a small web app to help teachers quickly give feedback to their students with printer friendly advice slips.
-![](/images/2020/05/Screenshot-2020-05-11-at-19.32.45-1.png)A screenshot for the Teacher's Feedback Generator
+<!-- ![](/images/2020/05/Screenshot-2020-05-11-at-19.32.45-1.png)A screenshot for the Teacher's Feedback Generator -->
+
 A teacher friend reached out to me earlier this week with a problem speeding up marking for their students work. The little web app is a quick solution to that problem available at: [https://matloughnane.github.io/teachers-feedback-generator/](https://matloughnane.github.io/teachers-feedback-generator/)
 
 # How to Use It

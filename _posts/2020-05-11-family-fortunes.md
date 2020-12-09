@@ -1,10 +1,11 @@
 ---
 title: Family Fortunes Style Game
 slug: family-fortunes
-date_published: 2020-05-11T19:13:00.000Z
+date: 2020-05-11T19:13:00.000Z
 date_updated: 2020-05-12T13:51:29.000Z
 tags: Website
-excerpt: I created a quick little game of family fortunes and wanted to share the game and code in case anyone wanted to use it.
+description: I created a quick little game of family fortunes and wanted to share the game and code in case anyone wanted to use it.
+featured_image: /images/2020/05/shareimage-1.png
 ---
 
 I created a quick little game of family fortunes and wanted to share the game and code in case anyone wanted to use it.

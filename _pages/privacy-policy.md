@@ -1,9 +1,9 @@
 ---
 title: Privacy Policy
 slug: privacy-policy
-date_published: 2019-10-15T15:08:25.000Z
+date: 2019-10-15T15:08:25.000Z
 date_updated: 2019-10-15T15:08:25.000Z
-excerpt: The Hexa Studios privacy policy
+description: The Hexa Studios privacy policy
 ---
 
 Your privacy is critically important to us. At Hexa Studios, we have a few fundamental principles:

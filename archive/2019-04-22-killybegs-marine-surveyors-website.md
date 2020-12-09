@@ -1,10 +1,11 @@
 ---
 title: Killybegs Marine Surveyors Website
 slug: killybegs-marine-surveyors-website
-date_published: 2019-04-22T12:08:00.000Z
+date: 2019-04-22T12:08:00.000Z
 date_updated: 2019-04-22T12:35:19.000Z
 tags: Website, Killybegs Marine Surveyors
-excerpt: A brand new website for Killybegs Marine Surveyors showcasing his services available in Co. Donegal and Ireland
+description: A brand new website for Killybegs Marine Surveyors showcasing his services available in Co. Donegal and Ireland.
+featured_image: "/images/2019/04/kms_logo_header.jpg"
 ---
 
 A brand new website for Killybegs Marine Surveyors.

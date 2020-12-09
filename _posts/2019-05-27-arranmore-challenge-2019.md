@@ -1,10 +1,11 @@
 ---
 title: Arranmore Challenge 2019
 slug: arranmore-challenge-2019
-date_published: 2019-05-27T09:30:00.000Z
+date: 2019-05-27T09:30:00.000Z
 date_updated: 2019-05-27T09:38:54.000Z
 tags: Arranmore, App
-excerpt: We're coming up on the annual June Bank Holiday football tournament held on Arranmore Island, the Arranmore Challenge.
+description: We're coming up on the annual June Bank Holiday football tournament held on Arranmore Island, the Arranmore Challenge.
+featured_image: "/images/2019/05/social_media.jpg"
 ---
 
 We're coming up on the annual June Bank Holiday football tournament held on Arranmore Island, the Arranmore Challenge.

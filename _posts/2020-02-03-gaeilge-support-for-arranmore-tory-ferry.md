@@ -1,10 +1,11 @@
 ---
 title: Gaeilge Support for Arranmore & Tory Ferry
 slug: gaeilge-support-for-arranmore-tory-ferry
-date_published: 2020-02-03T22:01:21.000Z
+date: 2020-02-03T22:01:21.000Z
 date_updated: 2020-02-03T22:03:54.000Z
 tags: App, #news
-excerpt: Arranmore and Tory ferries now support the Gaeilge language!
+description: Arranmore and Tory ferries now support the Gaeilge language!
+featured_image: /images/2020/02/gaeilge-poster-1-1.png
 ---
 
 Arranmore and Tory ferries now support the Gaeilge language!

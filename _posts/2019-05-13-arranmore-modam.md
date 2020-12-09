@@ -1,10 +1,11 @@
 ---
 title: Arranmore MODAM
 slug: arranmore-modam
-date_published: 2019-05-13T14:27:00.000Z
+date: 2019-05-13T14:27:00.000Z
 date_updated: 2019-05-21T18:28:12.000Z
 tags: Arranmore
-excerpt: Arranmore Island's now the most connected Island in the world with their new remote workspace, MODAM (with the help from Three!)
+description: Arranmore Island's now the most connected Island in the world with their new remote workspace, MODAM (with the help from Three!)
+featured_image: "/images/2019/05/Screenshot_20190508-091052-01-1.jpeg"
 ---
 
 Over the last month I've visited Arranmore Island a couple of times and was able to experience a sneak peek of the new remote workspace, Mol Oifig Digiteach Árainn Mhór otherwise known as MODAM.

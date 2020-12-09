@@ -1,23 +1,24 @@
 ---
 title: Early's Bar Website Update
 slug: earlys-website-update
-date_published: 2020-01-28T14:03:00.000Z
+date: 2020-01-28T14:03:00.000Z
 date_updated: 2020-02-12T14:36:26.000Z
 tags: Website
-excerpt: We've just completed a major overhaul of the Early's Bar website - check it out at earlysbar.com
+description: We've just completed a major overhaul of the Early's Bar website - check it out at earlysbar.com
+featured_image: /images/2020/01/Screenshot-2020-01-23-at-13.16.37-1.png
 ---
 
 We've just completed a major overhaul of the Early's Bar website - check it out at [earlysbar.com](https://earlysbar.com)
 
 The whole site has been updated to reflect Early's Bar, a welcoming bar on an island full of craic with traditional music for all.
 
-![](/images/2020/01/Screenshot-2020-01-23-at-13.16.37-1.png)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2020/01/Screenshot-2020-01-23-at-13.16.37-1.png,/images/2020/01/Screenshot-2020-01-23-at-13.16.45.png,/images/2020/01/Screenshot-2020-01-23-at-13.16.41.png"
+	alts="Early's Bar Homepage,Homepage Slide 2,Early's Opening Slide 3"
+%}
 
-![](/images/2020/01/Screenshot-2020-01-23-at-13.16.45.png)
-
-![](/images/2020/01/Screenshot-2020-01-23-at-13.16.41.png)
-
-New Early's Bar Home Page
 # The Process
 
 Looking back at the old site we made sure to keep what worked.
@@ -28,24 +29,26 @@ The colour scheme was tweaked too - we kept the nautical blue theme for the navi
 
 Everything else has been changed and improved upon.
 
-![](/images/2020/01/Screenshot-2020-01-23-at-13.18.01.png)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2020/01/Screenshot-2020-01-23-at-13.18.01.png,/images/2020/01/Screenshot-2020-01-23-at-13.26.40.png,/images/2020/01/Screenshot-2020-01-23-at-13.27.10.png"
+	alts="Early's Bar Webpage,Updated Page,Early's Updated Website"
+%}
 
-![](/images/2020/01/Screenshot-2020-01-23-at-13.26.40.png)
-
-![](/images/2020/01/Screenshot-2020-01-23-at-13.27.10.png)
-
-The website will work perfectly on all. mobiles and tablets devices
 # Upgrades
 
 Over the last few years Arranmore has become a connected island, featuring in Three's ad campaign and has started a technological hub, [MODAM](https://modam.work/). Having [worked from the hub](/arranmore-modam/) it was clear we could use the new, faster internet speeds to showcase Arranmore and Early's with large gorgeous images without worrying about a bad experience visiting the site.
 
 Featured throughout the site you'll see these images showing off what the bar has to offer - whether it's as a [music venue](https://earlysbar.com/music/), [restaurant](https://earlysbar.com/about/food-and-drink/) or just [some fun](https://earlysbar.com/about/gallery/).
 
-![](/images/2020/01/Screenshot-2020-01-23-at-13.16.57.png)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2020/01/Screenshot-2020-01-23-at-13.16.57.png,/images/2020/01/Screenshot-2020-01-23-at-13.17.07.png"
+	alts="Early's Bar Webpage,Updated Page,Early's Updated Website"
+%}
 
-![](/images/2020/01/Screenshot-2020-01-23-at-13.17.07.png)
-
-The website features
 # Early's Bar
 
 For the uninitiated, Early's Bar is a family run pub situated on the idyllic island of Arranmore, County Donegal.

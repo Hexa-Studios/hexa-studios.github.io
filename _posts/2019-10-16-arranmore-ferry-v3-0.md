@@ -1,11 +1,11 @@
 ---
 title: Arranmore Ferry App v3.0
 slug: arranmore-ferry-v3-0
-date_published: 2019-10-16T06:37:00.000Z
+date: 2019-10-16 06:37:00
 date_updated: 2020-02-21T13:38:52.000Z
 tags: Arranmore, App
-excerpt: We're very excited to announce with Arranmore Ferry a massive update to their mobile application!
-We've been working hard on this version of the app for a long time so indulge us for a minute and let us brag about all the new features.
+description: We're very excited to announce with Arranmore Ferry a massive update to their mobile application! We've been working hard on this version of the app for a long time so indulge us for a minute and let us brag about all the new features.
+featured_image: /images/2019/10/posterv2.jpg
 ---
 
 We're very excited to announce with [Arranmore Ferry](https://arranmorefastferry.com) a massive update to their mobile application!
@@ -14,13 +14,15 @@ We've been working hard on this version of the app for a long time so indulge us
 
 The app marks the first major updated to the UI of our mobile app! We've used lots of space and gradients to display the latest times in our trademark blue and orange colours.
 
-*As always any time in blue, is a ferry leaving Arranmore and any time leaving Burtonport is marked in Orange.*
+> As always any time in blue, is a ferry leaving Arranmore and any time leaving Burtonport is marked in Orange.
 
-![](/images/2019/10/optios1.png)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2019/10/optios1.png,/images/2019/10/optios2.png"
+	alts="Arranmore V3 Screenshot,Arranmore App v3 Screenshot"
+%}
 
-![](/images/2019/10/optios2.png)
-
-Screenshots of the new UI
 # New Navigation
 
 We've got a new navigation system for all users, though our iPhone fans will recognise it. All devices now have a smooth bottom bar to navigate the app without having to stretch and reach to the top of the screen.
@@ -31,11 +33,13 @@ We've folded our date picker into our timetables page now too. You can view the 
 
 Your chosen date will include all upcoming changes too. Any extra ferries or cancellations will be included in this timetable.
 
-![](/images/2019/10/optios3.png)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2019/10/optios3.png,/images/2019/10/optios4.png"
+	alts="Arranmore V3 Screenshot,Arranmore App v3 Screenshot"
+%}
 
-![](/images/2019/10/optios4.png)
-
-All changes are displayed when you choose a date on the timetables page.
 # Changes
 
 Life on an island means you have to be ready for any weather, things change quickly and we've got you covered with our new layout Changes page.
@@ -52,13 +56,15 @@ Thanks to the new high speed internet in Arranmore, slow download times are a th
 
 If you're not connected to the internet for any reason, we'll show a little notification to let you know you're not looking at the most up to date times.
 
-![](/images/2019/10/optios5.png)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2019/10/optios5.png,/images/2019/10/optios6.png,/images/2019/10/opttablet1.png"
+	alts="Arranmore V3 Screenshot,Arranmore App v3 Screenshot,Arranmore App v3 Screenshot"
+%}
+<pre>Downloading the latest data requires an internet connection</pre>
+<br/>
 
-![](/images/2019/10/optios6.png)
-
-![](/images/2019/10/opttablet1.png)
-
-Downloading the latest data requires an internet connection
 # Coming Soon
 
 This is the first in a series of updates. We know how important it is to keep the Gaeilge language alive, so we're working hard on translating the new app right now and we'll share this with you as soon as we have it.

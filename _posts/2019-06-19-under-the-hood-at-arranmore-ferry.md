@@ -1,10 +1,11 @@
 ---
 title: Under the Hood At Arranmore Ferry
 slug: under-the-hood-at-arranmore-ferry
-date_published: 2019-06-19T11:10:00.000Z
+date: 2019-06-19T11:10:00.000Z
 date_updated: 2020-07-07T11:12:40.000Z
 tags: Arranmore, Admin
-excerpt: We wanted to share some of the secrets that keep our ferry service running smoothly for all our customers!
+description: We wanted to share some of the secrets that keep our ferry service running smoothly for all our customers!
+featured_image: /images/2020/07/Screenshot-2019-07-22-at-11.07.13-4-1.png
 ---
 
 We wanted to share some of the secrets that keep our ferry service running smoothly for all our customers!
@@ -45,9 +46,12 @@ Ferry changes like these are updated across website, our apps and Alexa as soon 
 
 ## Messages for our Fans
 
-![](/images/2020/07/Screenshot-2019-07-22-at-12.04.13.png)
-
-![](/images/2020/07/Screenshot_20190722-111447.jpg)
+{% include post-components/gallery.html
+	columns = 3
+	full_width = true
+	images="/images/2020/07/Screenshot-2019-07-22-at-12.04.13.png,/images/2020/07/Screenshot_20190722-111447.jpg"
+	alts="Messaging feature of the admin dashboard,Message as it appears in the app"
+%}
 
 Our messages appear right inside the mobile app!
 When we have important messages, we can complete this form to send messages directly to our apps. We've run a couple of competitions in the past using these messages and let people know when events are taking place in Arranmore. Keep your eyes peeled on the app.

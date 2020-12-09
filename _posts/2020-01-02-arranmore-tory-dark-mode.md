@@ -1,10 +1,11 @@
 ---
 title: Dark Mode Arrives on the Arranmore and Tory Ferry Apps
 slug: arranmore-tory-dark-mode
-date_published: 2020-01-02T10:48:00.000Z
+date: 2020-01-02T10:48:00.000Z
 date_updated: 2020-01-02T11:29:21.000Z
 tags: Arranmore, Tory, App
-excerpt: Don't be left in the dark, read about our latest update on the new dark mode themes on the Arranmore Ferry app and the Tory Ferry app.
+description: Don't be left in the dark, read about our latest update on the new dark mode themes on the Arranmore Ferry app and the Tory Ferry app.
+featured_image: /images/2019/12/DarkModePoster_tf.png
 ---
 
 Don't be left in the dark, read about our latest update on the new dark mode themes on the Arranmore Ferry app and the Tory Ferry app.

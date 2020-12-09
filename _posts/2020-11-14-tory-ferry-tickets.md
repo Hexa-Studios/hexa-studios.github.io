@@ -1,8 +1,8 @@
 ---
 title: Tory Ferry Tickets
 slug: tory-ferry-tickets
-date: 2020-11-14T16:52:54.000Z
-date_updated: 2020-11-15T20:33:50.000Z
+date: 2020-12-09T16:52:54.000Z
+date_updated: 2020-12-09T20:33:50.000Z
 tags: Tory
 description: A HUGE update to the Tory Ferry app is rolling out today, you can now buy and manage your tickets to Tory Island all inside our app.
 featured_image: /images/2020/11/IEGlamour2.png

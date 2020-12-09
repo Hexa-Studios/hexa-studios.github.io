@@ -1,10 +1,10 @@
 ---
 title: New Hexa Website
 slug: new-hexa-website
-date_published: 2019-04-22T12:31:00.000Z
+date: 2019-04-22T12:31:00.000Z
 date_updated: 2020-02-12T13:57:04.000Z
 tags: Hexa, Admin
-excerpt: As more work starts rolling in, it was about time for a new look for the website. Take a look and let us know what you think.
+description: As more work starts rolling in, it was about time for a new look for the website. Take a look and let us know what you think.
 ---
 
 As more work starts rolling in for Hexa, I wanted to update the site to make it easier to share ideas, get feedback on projects and post updates about the teams I'm working with.
