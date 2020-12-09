@@ -35,9 +35,10 @@ This account will save all your tickets - your upcoming tickets will be saved in
 
 This is a huge update and there's lots of new parts of the app for you to experience - we've made it as easy and as clear as possible so that you know how many tickets you're buying and how much you're paying.
 
-## What If?
+## What If...?
 
 We've had to account for all sorts of scenarios inside the app - if a ferry is rerouted or cancelled you'll receive a notification and options on what to do next. In those rare instances you'll be able to request a refund, or make a change to your ticket.
+
 ![](/images/2020/11/Artboard4.png)Selecting passengers for travelling
 
 # Tickets

@@ -11,99 +11,52 @@ gallery_images:
   - mobile-apps/mobile-app-3.png
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Mobile apps are a great way for businesses to define a unique experience for their customers. We blend innovative technologies with practical designs to benefit business and users alike.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+All our apps go through a rigourous development life cycle to ensure a first class product.
 
-![](/images/demo.jpg)
+**1. Challenges**
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+*Design is functional.* To build an app we take the time to understand your business and the unique challenges you face.
 
-You can create lists:
+**2. Design & Prototyping**
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+Mobile users have patterns and habits that are second nature. We design solutions to use these behaviours and navigate your app.
 
-And:
+**3. Building**
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+We use modern technologies to build efficient, durable code bases with clean user interfaces and interaction to delight your users.
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+![](/images/projects/mobile-apps/mobile-app-3.png)
+<pre>Promotional Image for the Arranmore Weather App</pre>
+<br/>
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+<a id="case-study"></a>
 
-The theme also supports markdown tables:
+### Case Study: Tory Ferry
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+[Tory Island](https://www.tripadvisor.ie/Attraction_Review-g186601-d269515-Reviews-Tory_Island-County_Donegal.html) is an island of the North West coast of Ireland with a ferry service running multiple times a day. Between weather, tidal and wind changes the [Tory Ferry](https://toryferry.com) team at Realte Na Maidne needed an app to simplify their timetabling and ticketing challenges.
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-#### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg"
-%}
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
-
-{% raw %}
-```liquid
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg"
-%}
-```
-{% endraw %}
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
-
-#### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+We accepted the challenge and developed a control panel, API and mobile apps to give them more time back to ensure smooth sailing for their customers.
 
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
-	images = "/images/demo.jpg,/images/profile.jpg,/images/demo.jpg"
+	images = "/images/2020/11/Artboard3.png,/images/2020/11/Artboard2.png,/images/2020/11/Artboard4.png"
 %}
 
-#### What about videos?
+The final product brings together a wide range of features in an easy to use single app available on Android and iOS.
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+* Instant timetabling updates, with offline support.
+* Bi-lingual Support, Gaeilge & English. 
+* Notifications for real time updates from the Ferry team.
+* Account creation for saving and managing tickets with single sign on functionality for major social providers.
+* Payment integration for purchasing tickets.
+* QR code generation & scanning for the crew to check tickets instantly.
 
-{% include post-components/video.html
-	url = "https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0"
-	full_width = true
-%}
 
-### Pretty cool, huh?
+> “Things can change quickly in our line of work, fortunately the Tory Ferry app is able to keep our customers up to date instantly.”
 
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
+*Seamus Boyle - Director, Realte Na Maidne*
 
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill" style="padding-top:17px;">Get This Theme</a>
+---
