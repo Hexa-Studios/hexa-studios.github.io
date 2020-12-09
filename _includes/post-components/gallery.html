@@ -1,0 +1,16 @@
+{%- capture columns -%}
+	{%- if include.columns -%}
+		{{ include.columns }}
+	{%- else -%}
+		2
+	{%- endif -%}
+{%- endcapture -%}
+
+{% assign images = include.images | split: "," %}
+{% assign alt = include.alts | split: "," %}
+
+<div class="gallery {% if include.full_width == true %}full-width{% endif %}" data-columns="{{ columns }}">
+	{%- for image in images -%}
+		<img src="{{ image }}" alt="{{ alt[forloop.index0] }}">
+	{%- endfor -%}
+</div>
