@@ -54,7 +54,6 @@ The final product brings together a wide range of features in an easy to use sin
 * Payment integration for purchasing tickets.
 * QR code generation & scanning for the crew to check tickets instantly.
 
-
 > “Things can change quickly in our line of work, fortunately the Tory Ferry app is able to keep our customers up to date instantly.”
 
 *Seamus Boyle - Director, Realte Na Maidne*
