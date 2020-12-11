@@ -1,6 +1,6 @@
 ---
 title: The Boy Wonder and the Apple Tree House
-slug: aotbw-apple-tree-house
+redirect_from: aotbw-apple-tree-house
 date: 2020-08-19T08:16:00.000Z
 date_updated: 2020-08-19T10:14:48.000Z
 tags: Game, BoyWonder

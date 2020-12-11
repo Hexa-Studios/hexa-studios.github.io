@@ -1,6 +1,6 @@
 ---
 title: A Distillery Idea for Arranmore Island
-slug: a-distillery-idea-for-arranmore-island
+redirect_from: a-distillery-idea-for-arranmore-island
 date: 2019-07-08T22:39:03.000Z
 date_updated: 2019-07-08T22:39:03.000Z
 tags: Arranmore, Website

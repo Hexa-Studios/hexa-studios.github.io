@@ -1,6 +1,6 @@
 ---
 title: Early's Bar Poster Design
-slug: earlys-bar-design
+redirect_from: earlys-bar-design
 date: 2019-04-22T10:44:00.000Z
 date_updated: 2019-05-08T18:24:07.000Z
 tags: Design, Arranmore

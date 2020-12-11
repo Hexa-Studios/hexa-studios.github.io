@@ -1,6 +1,6 @@
 ---
 title: Tory Ferry gets Notifications
-slug: tory-ferry-gets-notifications
+redirect_from: tory-ferry-gets-notifications
 date: 2020-06-25T21:59:30.000Z
 date_updated: 2020-06-26T08:08:29.000Z
 tags: App, Tory

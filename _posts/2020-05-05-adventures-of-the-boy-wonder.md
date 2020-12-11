@@ -1,6 +1,6 @@
 ---
 title: Adventures of the Boy Wonder
-slug: adventures-of-the-boy-wonder
+redirect_from: adventures-of-the-boy-wonder
 date: 2020-05-05T15:38:00.000Z
 date_updated: 2020-08-19T10:09:52.000Z
 tags: OwenLoughnane, App, Game

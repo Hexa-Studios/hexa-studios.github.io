@@ -1,6 +1,6 @@
 ---
 title: Under the Hood At Arranmore Ferry
-slug: under-the-hood-at-arranmore-ferry
+redirect_from: under-the-hood-at-arranmore-ferry
 date: 2019-06-19T11:10:00.000Z
 date_updated: 2020-07-07T11:12:40.000Z
 tags: Arranmore, Admin

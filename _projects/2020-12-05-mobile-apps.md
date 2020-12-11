@@ -59,3 +59,10 @@ The final product brings together a wide range of features in an easy to use sin
 *Seamus Boyle - Director, Realte Na Maidne*
 
 ---
+<br/>
+**Featured Images**
+
+1. Tory Ferry
+2. Hi Sign
+3. Arranmore Weather
+

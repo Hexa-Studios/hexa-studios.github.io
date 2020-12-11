@@ -1,6 +1,6 @@
 ---
 title: Tory Ferry Tickets
-slug: tory-ferry-tickets
+redirect_from: tory-ferry-tickets
 date: 2020-12-09T16:52:54.000Z
 date_updated: 2020-12-09T20:33:50.000Z
 tags: Tory

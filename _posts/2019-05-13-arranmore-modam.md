@@ -1,6 +1,6 @@
 ---
 title: Arranmore MODAM
-slug: arranmore-modam
+redirect_from: arranmore-modam
 date: 2019-05-13T14:27:00.000Z
 date_updated: 2019-05-21T18:28:12.000Z
 tags: Arranmore

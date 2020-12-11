@@ -1,6 +1,6 @@
 ---
 title: Tory Ferry Alexa Update
-slug: tory-ferry-alexa-update
+redirect_from: tory-ferry-alexa-update
 date: 2019-06-21T09:35:00.000Z
 date_updated: 2019-06-21T10:36:57.000Z
 tags: Tory, Alexa

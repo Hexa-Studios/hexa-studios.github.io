@@ -1,6 +1,6 @@
 ---
 title: Sharing is Caring with Tory Ferry
-slug: sharing-is-caring-at-tory-ferry
+redirect_from: sharing-is-caring-at-tory-ferry
 date: 2020-08-01T17:19:08.000Z
 date_updated: 2020-08-01T20:11:52.000Z
 tags: Tory, App, #news

@@ -1,6 +1,6 @@
 ---
 title: Dark Mode Arrives on the Arranmore and Tory Ferry Apps
-slug: arranmore-tory-dark-mode
+redirect_from: arranmore-tory-dark-mode
 date: 2020-01-02T10:48:00.000Z
 date_updated: 2020-01-02T11:29:21.000Z
 tags: Arranmore, Tory, App

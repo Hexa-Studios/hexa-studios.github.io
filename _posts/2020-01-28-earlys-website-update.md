@@ -1,6 +1,6 @@
 ---
 title: Early's Bar Website Update
-slug: earlys-website-update
+redirect_from: earlys-website-update
 date: 2020-01-28T14:03:00.000Z
 date_updated: 2020-02-12T14:36:26.000Z
 tags: Website

@@ -1,6 +1,6 @@
 ---
 title: Killybegs Marine Surveyors Website
-slug: killybegs-marine-surveyors-website
+redirect_from: killybegs-marine-surveyors-website
 date: 2019-04-22T12:08:00.000Z
 date_updated: 2019-04-22T12:35:19.000Z
 tags: Website, Killybegs Marine Surveyors

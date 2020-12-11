@@ -1,6 +1,6 @@
 ---
 title: Teacher's Feedback Generator
-slug: teachers-feedback-generator
+redirect_from: teachers-feedback-generator
 date: 2020-05-11T08:12:00.000Z
 date_updated: 2020-05-11T19:19:59.000Z
 tags: Website

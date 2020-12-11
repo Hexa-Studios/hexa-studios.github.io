@@ -1,6 +1,6 @@
 ---
 title: Tory Ferry Website & App
-slug: tory-ferry-website-app
+redirect_from: tory-ferry-website-app
 date: 2019-04-22T12:05:00.000Z
 date_updated: 2019-04-22T12:34:02.000Z
 tags: Website, Tory

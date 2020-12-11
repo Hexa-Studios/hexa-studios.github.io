@@ -1,6 +1,6 @@
 ---
 title: Arranmore Ferry Alexa Update
-slug: arranmore-ferry-alexa-update
+redirect_from: arranmore-ferry-alexa-update
 date: 2019-06-21T10:11:50.000Z
 date_updated: 2019-06-21T11:03:47.000Z
 tags: Arranmore, Alexa

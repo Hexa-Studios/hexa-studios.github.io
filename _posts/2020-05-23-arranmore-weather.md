@@ -1,6 +1,6 @@
 ---
 title: Arranmore Weather
-slug: arranmore-weather
+redirect_from: arranmore-weather
 date: 2020-05-23T16:20:01.000Z
 date_updated: 2020-06-03T19:13:38.000Z
 featured_image: /images/2020/05/shareimage-fb.png

@@ -1,6 +1,6 @@
 ---
 title: New Hexa Website
-slug: new-hexa-website
+redirect_from: new-hexa-website
 date: 2019-04-22T12:31:00.000Z
 date_updated: 2020-02-12T13:57:04.000Z
 tags: Hexa, Admin

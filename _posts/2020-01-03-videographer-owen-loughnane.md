@@ -1,6 +1,6 @@
 ---
 title: Videographer Owen Loughnane
-slug: videographer-owen-loughnane
+redirect_from: videographer-owen-loughnane
 date: 2020-01-03T17:31:00.000Z
 date_updated: 2020-05-18T18:45:51.000Z
 tags: Website, OwenLoughnane

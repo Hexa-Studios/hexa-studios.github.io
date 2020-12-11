@@ -1,6 +1,6 @@
 ---
 title: Penjii Protects the Planet
-slug: penjii-protects-the-planet
+redirect_from: penjii-protects-the-planet
 date: 2020-02-21T13:38:30.000Z
 date_updated: 2020-02-21T13:42:25.000Z
 tags: App, Caped Koala
