@@ -1,6 +1,8 @@
 ---
 title: Arranmore Ferry App v3.0
-redirect_from: arranmore-ferry-v3-0
+redirect_from:
+- arranmore-ferry-v3-0
+- arranmore-ferry-v3-0/
 date: 2019-10-16 06:37:00
 date_updated: 2020-02-21T13:38:52.000Z
 tags: Arranmore, App

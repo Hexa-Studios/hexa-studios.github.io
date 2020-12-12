@@ -1,6 +1,8 @@
 ---
 title: Arranmore Challenge Digital Statistics
-redirect_from: arranmore-challenge-digital-statistics
+redirect_from:
+- arranmore-challenge-digital-statistics
+- arranmore-challenge-digital-statistics/
 date: 2019-06-09T11:18:00.000Z
 date_updated: 2019-06-18T18:23:19.000Z
 tags: Arranmore, Statistics

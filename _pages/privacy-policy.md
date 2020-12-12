@@ -1,6 +1,8 @@
 ---
 title: Privacy Policy
-redirect_from: privacy-policy
+redirect_from:
+- privacy-policy
+- privacy-policy/
 date: 2019-10-15T15:08:25.000Z
 date_updated: 2019-10-15T15:08:25.000Z
 description: The Hexa Studios privacy policy

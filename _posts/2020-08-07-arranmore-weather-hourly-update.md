@@ -1,6 +1,8 @@
 ---
 title: Update to Arranmore Weather to keep up with Arranmore's Weather
-redirect_from: arranmore-weather-hourly-update
+redirect_from:
+- arranmore-weather-hourly-update
+- arranmore-weather-hourly-update/
 date: 2020-08-07T23:39:00.000Z
 date_updated: 2020-08-17T16:55:09.000Z
 tags: App, Arranmore, #news

@@ -1,6 +1,8 @@
 ---
 title: DMB Electric's New Website
-redirect_from: dmb-electric-new-website
+redirect_from:
+- dmb-electric-new-website
+- dmb-electric-new-website/
 date: 2020-04-29T12:10:00.000Z
 date_updated: 2020-05-07T15:40:07.000Z
 tags: Website

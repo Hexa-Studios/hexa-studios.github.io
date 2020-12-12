@@ -1,6 +1,8 @@
 ---
 title: Arranmore Challenge 2019
-redirect_from: arranmore-challenge-2019
+redirect_from: 
+- arranmore-challenge-2019
+- arranmore-challenge-2019/
 date: 2019-05-27T09:30:00.000Z
 date_updated: 2019-05-27T09:38:54.000Z
 tags: Arranmore, App

@@ -1,6 +1,8 @@
 ---
 title: Tory Ferry works with Amazon's Alexa
-redirect_from: tory-ferry-works-with-amazons-alexa
+redirect_from: 
+- tory-ferry-works-with-amazons-alexa
+- tory-ferry-works-with-amazons-alexa/
 date: 2019-05-09T11:47:00.000Z
 date_updated: 2019-05-09T11:47:00.000Z
 tags: Tory, Alexa

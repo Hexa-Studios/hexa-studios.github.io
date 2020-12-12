@@ -1,6 +1,8 @@
 ---
 title: Gaeilge Support for Arranmore & Tory Ferry
-redirect_from: gaeilge-support-for-arranmore-tory-ferry
+redirect_from:
+- gaeilge-support-for-arranmore-tory-ferry
+- gaeilge-support-for-arranmore-tory-ferry/
 date: 2020-02-03T22:01:21.000Z
 date_updated: 2020-02-03T22:03:54.000Z
 tags: App, #news

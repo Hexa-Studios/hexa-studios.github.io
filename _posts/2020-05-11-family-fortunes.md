@@ -1,6 +1,8 @@
 ---
 title: Family Fortunes Style Game
-redirect_from: family-fortunes
+redirect_from:
+- family-fortunes
+- family-fortunes/
 date: 2020-05-11T19:13:00.000Z
 date_updated: 2020-05-12T13:51:29.000Z
 tags: Website

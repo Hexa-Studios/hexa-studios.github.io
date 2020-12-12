@@ -1,6 +1,8 @@
 ---
 title: Ask Alexa for Arranmore Ferry
-redirect_from: ask-alexa-for-arranmore-ferry
+redirect_from:
+- ask-alexa-for-arranmore-ferry
+- ask-alexa-for-arranmore-ferry/
 date: 2019-05-01T13:25:00.000Z
 date_updated: 2019-05-01T13:25:00.000Z
 tags: Arranmore, Alexa
