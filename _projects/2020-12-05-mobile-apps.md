@@ -6,9 +6,9 @@ description: We work with our clients to determine their business needs, and dev
 featured_image: mobile-apps/mobile-app-cover.png
 accent_color: '#6F1E51'
 gallery_images:
-  - mobile-apps/mobile-app-1.jpg
-  - mobile-apps/mobile-app-2.jpg
-  - mobile-apps/mobile-app-3.jpg
+  - mobile-apps/mobile-app-1.png
+  - mobile-apps/mobile-app-2.png
+  - mobile-apps/mobile-app-3.png
 ---
 
 Mobile apps are a great way for businesses to define a unique experience for their customers. We blend innovative technologies with practical designs to benefit business and users alike.
