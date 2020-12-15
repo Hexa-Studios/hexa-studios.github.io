@@ -35,8 +35,8 @@ There's some of the initial artwork there including my very poor attempt at crea
 	alts="Early Artwork for the Boy Wonder,New App Icon,Fully shaded character"
 %}
 
-
 Some of the artwork from the game
+
 ## Development
 
 The game was built using the [Unity 3d](https://unity.com/) game engine - there are great tools and resources online to guide a newbie through 2D game design basics. YouTube channels such as [Brackeys](https://www.youtube.com/user/Brackeys) and [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g) were excellent in getting the game from an idea into it's current form.
