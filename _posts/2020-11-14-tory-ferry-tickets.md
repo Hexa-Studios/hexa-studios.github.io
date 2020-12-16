@@ -61,10 +61,19 @@ You can open your tickets to see the full details and let your ticket be scanned
 	alts="Buying a ticket on the Tory Ferry App"
 %}
 
+# Web Tickets
+
+Finally we've updated the Tory Ferry website with a ticketing process too. You'll receive an email with your ticket information rather than seeing your ticket in the app, just show this email to any of the Tory Ferry crew when on board.
+The website also uses Stripe technology to securely manage your payment details via the Stripe checkout process and we only store your ticket details.
+
+## Thanks Yous
+
+We wanted to take a moment to thank the Ferry team for their help in integrating the payments process into the website and app.
+We'd like to give Marie Clancy a big 'Thank You' too! Her first class translation work can be seen throughout the app for the entire ticketing process.
+
 # Your Ferry Team
 
-This is a huge update for us and we're excited to share it with you - if you have any questions at all - reach out to us on [Facebook](https://www.facebook.com/toryislandferry) or give us a call on [+353 87 199 3710](tel:+353871993710) and we can help get you started with the update and get you to Tory faster.
-
+This is a huge update for us and we're excited to share it with you - if you have any questions at all - reach out to the Ferry team on [Facebook](https://www.facebook.com/toryislandferry) or give them a call on [+353 87 199 3710](tel:+353871993710) and we can help get you started with the update and get you to Tory faster.
 
 {% include post-components/app-buttons.html
 	columns = 2
