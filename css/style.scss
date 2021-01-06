@@ -151,8 +151,6 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 // Base URL
 $baseurl: '{{ site.baseurl }}';
 
-
-
 // - - - - - - - - - - Global styles
 
 @import "_basic";
@@ -182,3 +180,15 @@ $baseurl: '{{ site.baseurl }}';
 
 @import "_includes/_section__listing";
 @import "_includes/_section__hero";
+
+// CUSTOM STYLES
+
+.img-half {
+	max-width: 50%;
+}
+.img-qtr {
+	max-width: 25%;
+}
+.img-3qtr {
+	max-width: 75%;
+}
