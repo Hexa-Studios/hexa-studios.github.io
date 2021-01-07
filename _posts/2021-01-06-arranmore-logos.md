@@ -73,7 +73,7 @@ Here's the logo at work on some images for branding and for social media sharing
 %}
 
 <pre>
-Credit for Photographs to <a href="https://www.facebook.com/Discover-Arranmore-324708778006121" target="_blank">Discover Arranmore</a> and <a href="https://twitter.com/aahmm" target="_blank">Aahmm</a> on Twitter.
+Credit for Photographs to <a href="https://www.facebook.com/Discover-Arranmore-324708778006121" target="_blank">Discover Arranmore</a> and <a href="https://twitter.com/aahmm" target="_blank">Aahmm</a>.
 </pre>
 
 
@@ -81,6 +81,6 @@ Credit for Photographs to <a href="https://www.facebook.com/Discover-Arranmore-3
 
 Just a reminder, the Arranmore United and GAA teams are currently fundraising to prepare for when sports are able to be played after the COVID-19 pandemic.
 
-The Arranmore United team have been running quizzes and hosting their Last Man Standing competition via <a href="https://www.facebook.com/arranmoreutd2017">Facebook</a>, please join and support if you're interested. 
+The Arranmore United team have been running quizzes and hosting their Last Man Standing competition via <a href="https://www.facebook.com/arranmoreutd2017">Facebook</a>, please join and support if you're interested.
 
 The GAA team are in the process of getting another order together for their jerseys and hats with their logo - if you're interested in getting your hands on the merch' - reach out to them via <a href="https://www.facebook.com/ArranmoreGAA">Facebook</a> or <a href="https://twitter.com/ArranmoreGAA/status/1344377587347443720">Twitter</a>.
