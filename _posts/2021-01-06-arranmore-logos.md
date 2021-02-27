@@ -69,7 +69,7 @@ Here's the logo at work on some images for branding and for social media sharing
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
-	images = "/images/2021/arranmore-logos/utd-socials/share-1.png,/images/2021/arranmore-logos/utd-socials/share-3.png,/images/2021/arranmore-logos/utd-socials/share-4.png,/images/2021/arranmore-logos/utd-socials/share-2.png"
+	images = "/images/2021/arranmore-logos/utd-socials/share-1.png,/images/2021/arranmore-logos/utd-socials/share-3.png,/images/2021/arranmore-logos/utd-socials/share-4.png,/images/2021/arranmore-logos/utd-socials/share-2.jpg"
 %}
 
 <pre>
