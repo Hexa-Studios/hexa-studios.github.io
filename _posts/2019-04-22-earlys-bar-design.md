@@ -12,7 +12,7 @@ featured_image: "/images/2019/04/sailorBill.jpg"
 
 ## Early's Bar gets a series of summer posters.
 
-A while back Early's bar in Arranmore ran a series of promotions over the summer months, we helped with a small rebrand which lead to a full [website](https://earlysbar.com) overhaul later on.
+A while back Early's bar in Arranmore ran a series of promotions over the summer months, we helped with a small rebrand which lead to a full [website](https://earlys.bar) overhaul later on.
 
 {% include post-components/gallery.html
 	columns = 2
