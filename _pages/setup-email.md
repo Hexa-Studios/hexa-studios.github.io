@@ -19,7 +19,7 @@ You can use any email client on mac or windows (the images show Mail on Mac).
 ### macOS
 
 1. Open Mail
-2. Open Preferences (Press `CMD + ;` on a mac)
+2. Open Preferences (Press `CMD + ,` on a mac)
 3. Select Accounts and click the Plus
 4. Select "Other Mail..."
 5. Enter your email address and paassword
