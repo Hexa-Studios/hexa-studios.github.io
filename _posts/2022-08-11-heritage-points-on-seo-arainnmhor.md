@@ -31,7 +31,7 @@ This update was built very quickly using the latest technology stacks:
 - The mobile app is built using [Flutter](https://flutter.dev) and we've just extended that technology to include an audio player in this latest update. For more detail info on the app in general see our [launch post](https://hexastudios.co/blog/seo-arainnmhor).
 
 ![Thank you for working on Seo Árainn Mhór](/images/2022/heritage-points/wide-thanks.png)
-![Thank you for working on Seo Árainn Mhór](/images/2022/heritage-points/wide-thanks2.png)
+![Thank you for working on Seo Árainn Mhór](/images/2022/heritage-points/wide-thanks_2.png)
 
 # Thank Yous
 
