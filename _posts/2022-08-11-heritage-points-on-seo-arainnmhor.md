@@ -13,6 +13,8 @@ Replacing the stories in the app - you can now view selected points in the app w
 
 The update, rolling out now to the Apple App Store and Google Play, will feature these Heritage Points on the stories page. Each story will feature it's own audio player and you can listen to the stories in English and Irish.
 
+You can download the latest updates on the [Apple App Store](https://apps.apple.com/app/seo-%C3%A1rainn-mh%C3%B3r/id1620779594) and [Google Play](https://play.google.com/store/apps/details?id=co.hexastudios.seoarainnmhor)
+
 # The Project
 
 The Seo Árainn Mhór app is a project that's been devised, developed and produced on the island of Arranmore between several community groups:
