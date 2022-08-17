@@ -15,6 +15,12 @@ The update, rolling out now to the Apple App Store and Google Play, will feature
 
 You can download the latest updates on the [Apple App Store](https://apps.apple.com/app/seo-%C3%A1rainn-mh%C3%B3r/id1620779594) and [Google Play](https://play.google.com/store/apps/details?id=co.hexastudios.seoarainnmhor)
 
+{% include post-components/app-buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=co.hexastudios.seoarainnmhor"
+	ios = "https://apps.apple.com/app/seo-%C3%A1rainn-mh%C3%B3r/id1620779594"
+%}
+
 # The Project
 
 The Seo Árainn Mhór app is a project that's been devised, developed and produced on the island of Arranmore between several community groups:
