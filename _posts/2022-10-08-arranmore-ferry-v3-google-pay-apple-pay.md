@@ -30,6 +30,12 @@ When you're ready to book your ticket - you'll be given the option to use any sa
 
 ![Apple Pay](/images/2022/arranmore-v3/Artboard5.jpg)
 
+# Using Google Pay
+
+If you're on Android you'll be able to click the Google Pay button - where you'll be prompted to use your Google wallet cards - select and confirm and you'll be able to buy your ticket seamlessly with the Arranmore Ferry admin panel. You'll receive your ticket for viewing and using throughout the trip to or from Arranmore Island.
+
+![Google Pay](/images/2022/arranmore-v3/Artboard6.jpg)
+
 # Tech Stack
 
 This update uses the latest pluging from Stripe for flutter and allows us to integrate Google Pay and Apple quickly while maintaining the same experience with the Arranmore Ferry tickets. We receently visited the Stripe offices in Dublin to learn more about their products, stay tuned for updates.
@@ -40,6 +46,5 @@ We're excited for you to see the new update - as always if you have problems wit
 
 The [Arranmore Ferry Team](https://thearranmoreferry.com/about).
 
-PS. We're working on Google Pay (you might see it in some of the images - it's coming soon!)
 
 ![Arranmore Ferry - v3 update](/images/2022/arranmore-v3/Artboard2.jpg)
