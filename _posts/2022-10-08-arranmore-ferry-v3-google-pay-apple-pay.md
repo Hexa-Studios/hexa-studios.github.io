@@ -1,9 +1,9 @@
 ---
-title: Arranmore Update v3 - Apple Pay!
+title: Arranmore Update v3 - Apple Pay & Google Pay!
 date: 2022-08-11T10:39:00.000Z
 date_updated: 2022-08-11T10:55:09.000Z
 tags: App
-description: The latest update to the Arranmore Ferry app now includes support for Apple Pay
+description: The latest update to the Arranmore Ferry app now includes support for Apple Pay and Google Pay
 featured_image: /images/2022/arranmore-v3/Artboard1.jpg
 ---
 
