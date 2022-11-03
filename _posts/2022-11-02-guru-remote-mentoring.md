@@ -28,7 +28,6 @@ Remote working, whether from your home a shared workspace or an office far remov
 We've set up social accounts for gúrú so please give us a follow and stay up to date with the latest news:
 - [Twitter](https://twitter.com/guruobair)
 - [LinkedIn](https://www.linkedin.com/company/g%C3%BAr%C3%BA/)
-- [Facebook](https://www.facebook.com/events/786856769130722/)
 
 ## Grow Remote
 
@@ -40,6 +39,6 @@ We've built the web app using open source technologies, the web app is built usi
 
 # Thank Yous
 
-Thanks to [Grow Remote](https://growremote.ie/) for all their help and support in developing this project.
+Thanks to [Grow Remote](https://growremote.ie/) for all their help and support in developing this project, in particular the [Donegal chapter](https://growremote.ie/chapter/grow-remote-donegal/)
 
 gúrú is an initiative of Arranmore Island Community Council and the Arranmore Island community.
