@@ -40,3 +40,9 @@ If you've got any ideas on how to improve the app or website - please contact us
 We'll keep you posted with more updates soon
 
 > This blog is crossposted from [The Arranmore Ferry website](https://thearranmoreferry.com/blog/the-new-arranmore-ferry-app)
+
+{% include post-components/app-buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=com.thearranmoreferry.app"
+	ios = "https://apps.apple.com/ie/app/the-arranmore-ferry-blue/id1548020032"
+%}

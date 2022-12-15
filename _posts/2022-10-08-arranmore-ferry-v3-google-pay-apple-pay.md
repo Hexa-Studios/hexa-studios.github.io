@@ -48,3 +48,9 @@ The [Arranmore Ferry Team](https://thearranmoreferry.com/about).
 
 
 ![Arranmore Ferry - v3 update](/images/2022/arranmore-v3/Artboard2.jpg)
+
+{% include post-components/app-buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=com.thearranmoreferry.app"
+	ios = "https://apps.apple.com/ie/app/the-arranmore-ferry-blue/id1548020032"
+%}

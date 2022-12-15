@@ -36,3 +36,9 @@ PS. We're working on Google Pay (you might see it in some of the images - it's c
 ![Tory Ferry Promo](https://directus.hexastudios.co/assets/90ff2ebf-9f41-4cb3-a56c-01009f03a491)
 
 This blog post, is cross posted on the [Tory Ferry Website](https://www.toryferry.com/blog/tory-ferry-v6-update)
+
+{% include post-components/app-buttons.html
+	columns = 2
+	android = "https://play.google.com/store/apps/details?id=co.hexastudios.toryferry"
+	ios = "https://itunes.apple.com/au/app/tory-ferry/id1367177195?mt=8"
+%}
