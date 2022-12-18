@@ -19,7 +19,7 @@ footer_settings:
   tagline: Developers delivering bespoke solutions
 
 hero_settings:
-  background_image: /images/backgrounds/hexa-background-hero2.png
+  background_image: /images/backgrounds/hexa-background-hero3.png
 
 post_settings:
   grid_spacing: 10
@@ -36,14 +36,14 @@ social_settings:
   twitter_url: 'https://twitter.com/hexa_studios'
   instagram_url: 'https://instagram.com/matloughnane'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/@hexastudios7934'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
   medium_url: ''
   quora_url: ''
   amazon_url: ''
-  apple_url: ''
+  apple_url: 'https://apps.apple.com/us/developer/hexa-studios-limited/id959363524'
   android_url: 'https://play.google.com/store/apps/dev?id=4783590797014052198'
   tumblr_url: ''
   dribbble_url: 'https://dribbble.com/matloughnane'
@@ -59,20 +59,21 @@ social_settings:
   bandcamp_url: ''
   linkedin_url: ''
 
+# #498a47
 color_settings:
   background_color: '#ffffff'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
-  accent_color: '#498a47'
+  accent_color: '#00733B'
   secondary_accent_color: '#6F1E51'
   border_color: '#ECEDEF'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,500,700|Lato:400,700" rel="stylesheet">'
-  title_font: '"Josefin Sans", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700|Lato:400,700" rel="stylesheet">'
+  title_font: '"Poppins", sans-serif'
   body_font: 'Lato, sans-serif'
   regular_weight: 400
   bold_weight: 700
@@ -80,7 +81,7 @@ font_settings:
     small_size: 30
     medium_size: 40
     large_size: 45
-    weight: 700
+    weight: 500
     letter_spacing: -0.02
   menu:
     small_size: 30
@@ -91,15 +92,16 @@ font_settings:
   h1:
     size: 52
     size_small: 42
-    weight: 700
+    weight: 500
     letter_spacing: -1.5
     letter_spacing_small: -1.2
     line_height: 64
     line_height_small: 48
+    padding_bottom: 12
   h2:
     size: 48
     size_small: 36
-    weight: 700
+    weight: 500
     letter_spacing: -1.6
     letter_spacing_small: -1.04
     line_height: 48
@@ -170,7 +172,7 @@ font_settings:
   blockquote:
     small_size: 22
     medium_size: 28
-    large_size: 32
+    large_size: 28
     weight: 500
     letter_spacing: -0.02
     line_height: 1.3

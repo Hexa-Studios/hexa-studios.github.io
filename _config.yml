@@ -7,6 +7,9 @@ collections:
   pages:
     output: true
     permalink: /:name
+  help:
+    output: true
+    permalink: /help/:name
   posts:
     output: true
     permalink: /blog/:slug
@@ -24,6 +27,12 @@ defaults:
     scope:
       path: ""
       type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "help"
     values:
       layout: "page"
   -
