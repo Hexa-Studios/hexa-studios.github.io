@@ -175,7 +175,6 @@ $baseurl: '{{ site.baseurl }}';
 @import "_includes/_section__recent-posts";
 
 
-
 // // - - - - - - - - - - Section styles
 
 @import "_includes/_section__listing";
@@ -191,4 +190,10 @@ $baseurl: '{{ site.baseurl }}';
 }
 .img-3qtr {
 	max-width: 75%;
+}
+
+.button--nav {
+	// background: pink;
+	// border-radius: 2em;
+	padding: 0.5em 1.5em;
 }
