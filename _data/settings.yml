@@ -182,7 +182,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: <script async defer data-website-id="aaf2b6ae-d64a-4c4b-b88d-e4d9560fa2a8" src="https://analytics.hexastudios.co/umami.js"></script>
   custom_styles: ""
   header_js: ""
-  footer_js: <script async defer data-website-id="aaf2b6ae-d64a-4c4b-b88d-e4d9560fa2a8" src="https://analytics.hexastudios.co/umami.js"></script>
+  footer_js: ""
