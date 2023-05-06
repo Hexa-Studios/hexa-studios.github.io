@@ -3,6 +3,8 @@ title: Tory Ferry Alexa Update
 redirect_from:
 - tory-ferry-alexa-update
 - tory-ferry-alexa-update/
+- tory-ferry-works-with-amazons-alexa/amp/
+- tory-ferry-works-with-amazons-alexa/amp
 date: 2019-06-21T09:35:00.000Z
 date_updated: 2019-06-21T10:36:57.000Z
 tags: Tory, Alexa
