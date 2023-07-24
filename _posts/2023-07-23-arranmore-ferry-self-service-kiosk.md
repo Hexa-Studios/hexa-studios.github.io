@@ -9,7 +9,7 @@ featured_image: /images/2023/arranmore-kiosk/2_intro_arranmore_ferry.png
 
 After a couple of [teases](https://www.facebook.com/hexastudiosco/posts/pfbid02BzRuwGrzaj11KkouRisv7aB3uaKZeBEACybYiB6Kt2RdHkqqp3y9UYkHW22v1Wndl), we're incredibly excited to share our latest project, the Arranmore Ferry self service kiosk. This project is a culmination of months of work (and years or dreaming from Seamus, Louise and myself).
 
-A little over a year ago I was calling companies asking whether they were able to help me in realising this project. I'm not exaggerating when I say that they laughed down the phone to me, saying that it was not worth their time to work with such a small company at such a scale... So we built it ourselves. We reached out to the fantastic team at [AllSee Technologies](https://allsee-tech.com) - who specialise in interactive displays and started creating inventive code to use [Stripe](https://stripe.com)'s (the secure digital payment solutions) terminals to faciliate payments.
+A little over a year ago I was calling companies asking whether they were able to help me in realising this project. I'm not exaggerating when I say that they laughed down the phone to me, saying that it was not worth their time to work with Hexa, since we're such a small company... So we built it ourselves. We reached out to the fantastic team at [AllSee Technologies](https://allsee-tech.com) - who specialise in interactive displays and started creating inventive code to use [Stripe](https://stripe.com)'s, the secure digital payment solutions, terminals to faciliate payments.
 
 We then created an application for the kiosk that integrates with the Arranmore Ferry system, ensuring we deliver the latest times, with the latest availability (no double bookings) and collect all your details before printing your ticket.
 
@@ -35,7 +35,7 @@ Once you're ready to pay, hit the big button and you'll have to use our payment 
 
 > If you've opted to go green, you'll have received an email instead!
 
-We've counted, you can click have a ticket with _5 clicks_ of the kiosk and be ready to board the blue ferry.
+We've counted, you can have a ticket with _5 clicks_ of the kiosk and be ready to board the blue ferry.
 
 ![The Arranmore Ferry Kiosk takes 5 clicks to book](/images/2023/arranmore-kiosk/5_confirm_pay_sail_arranmore_ferry.png)
 
