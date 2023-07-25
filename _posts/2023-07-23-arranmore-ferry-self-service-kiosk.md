@@ -51,7 +51,7 @@ Our first kiosk location, is on the pier in Burtonport, head into our Self Servi
 
 ![The Arranmore Ferry Kiosk is located on Burtonport Pier and is open now](/images/2023/arranmore-kiosk/1_intro_arranmore_ferry.png)
 
-# Download the app
+# Download the App
 
 Of course, if you're running late - or not on the ferry pier - you can download our mobile app at any time and book tickets from your phone or tablet. The app has all the latest times and all the latest info on what's available in just a few taps. You can even receive notification from the team when there's changes to ferries or extras running.
 

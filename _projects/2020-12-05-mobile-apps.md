@@ -7,7 +7,7 @@ featured_image: mobile-apps/mobile-app-cover.png
 accent_color: '#6F1E51'
 gallery_images:
   - mobile-apps/app-blue.jpg
-  - mobile-apps/mobile-app-1.jpg
+  - mobile-apps/Artboard1.jpg
   - mobile-apps/mobile-app-2.jpg
   - mobile-apps/mobile-app-3.jpg
 ---
