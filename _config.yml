@@ -70,3 +70,5 @@ plugins:
 
 paginate: 7
 paginate_path: "/blog/page-:num/"
+
+exclude: ["_image_optim_cache.yml"]

@@ -58,7 +58,7 @@ Of course, if you're running late - or not on the ferry pier - you can download 
 {% include post-components/app-buttons.html
 	columns = 2
 	android = "https://play.google.com/store/apps/details?id=com.thearranmoreferry.app"
-	ios = "https://apps.apple.com/ie/app/the-arranmore-ferry-blue/id1548020032"
+	ios = "https://apps.apple.com/ie/app/the-arranmore-ferry-blue/id1548020032" 
 %}
 
 # Thank You
