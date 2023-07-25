@@ -11,7 +11,7 @@ After a couple of [teases](https://www.facebook.com/hexastudiosco/posts/pfbid02B
 
 A little over a year ago I was calling companies asking whether they were able to help me in realising this project. I'm not exaggerating when I say that they laughed down the phone to me, saying that it was not worth their time to work with Hexa, since we're such a small company... So we built it ourselves. We reached out to the fantastic team at [AllSee Technologies](https://allsee-tech.com) - who specialise in interactive displays and started creating inventive code to use [Stripe](https://stripe.com)'s, the secure digital payment solutions, terminals to faciliate payments.
 
-We then created an application for the kiosk that integrates with the [Arranmore Ferry](https://thearranmoreferry.com) system, ensuring we deliver the latest times, with the latest availability (no double bookings) and collect all your details before printing your ticket.
+We then created an application for the kiosk that integrates with the Arranmore Ferry system, ensuring we deliver the latest times, with the latest availability (no double bookings) and collect all your details before printing your ticket.
 
 # The Kiosk and Your Journey
 
@@ -21,25 +21,13 @@ Clicking any one of these times will select that time and allow you to choose ei
 
 After that we need you to select the number of people who are travelling.
 
-<!-- ![The Arranmore Ferry Kiosk takes 5 clicks to book](/images/2023/arranmore-kiosk/3_5_clicks_arranmore_ferry.png) -->
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/2023/arranmore-kiosk/3_5_clicks_arranmore_ferry.png"
-	alts="The Arranmore Ferry Kiosk takes 5 clicks to book"
-%}
+![The Arranmore Ferry Kiosk takes 5 clicks to book](/images/2023/arranmore-kiosk/3_5_clicks_arranmore_ferry.png)
 
 ## Your Details
 
 Once we have your journey, we may need to collect some details, for example it's useful for the team to know which type of car (and colour) that you'll be driving on board, the boat. If you want to go green, you can add your email and we'll issue an e-ticket instead!
 
-<!-- ![The Arranmore Ferry Kiosk takes 5 clicks to book](/images/2023/arranmore-kiosk/4_explainer_arranmore_ferry.png) -->
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/2023/arranmore-kiosk/4_explainer_arranmore_ferry.png"
-	alts="The Arranmore Ferry Kiosk explained"
-%}
+![The Arranmore Ferry Kiosk takes 5 clicks to book](/images/2023/arranmore-kiosk/4_explainer_arranmore_ferry.png)
 
 ## Payment
 
@@ -49,40 +37,19 @@ Once you're ready to pay, hit the big button and you'll have to use our payment 
 
 We've counted, you can have a ticket with _5 clicks_ of the kiosk and be ready to board the blue ferry.
 
-<!-- ![The Arranmore Ferry Kiosk takes 5 clicks to book](/images/2023/arranmore-kiosk/5_confirm_pay_sail_arranmore_ferry.png) -->
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/2023/arranmore-kiosk/5_confirm_pay_sail_arranmore_ferry.png"
-	alts="The Arranmore Ferry Kiosk takes 5 clicks to book"
-%}
+![The Arranmore Ferry Kiosk takes 5 clicks to book](/images/2023/arranmore-kiosk/5_confirm_pay_sail_arranmore_ferry.png)
 
 # Timetables
 
 We also added the option for people to view timetables, just click the button and select the date you wish to view.
 
-<!-- ![Arranmore Ferry timetables](/images/2023/arranmore-kiosk/6_timetables_arranmore_ferry.png) -->
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/2023/arranmore-kiosk/6_timetables_arranmore_ferry.png"
-	alts="Arranmore Ferry timetables"
-%}
-
+![Arranmore Ferry timetables](/images/2023/arranmore-kiosk/6_timetables_arranmore_ferry.png)
 
 # Location
 
 Our first kiosk location, is on the pier in Burtonport, head into our Self Service booth and start using the kiosk when you land into Burtonport.
 
-<!-- ![The Arranmore Ferry Kiosk is located on Burtonport Pier and is open now](/images/2023/arranmore-kiosk/1_intro_arranmore_ferry.png) -->
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/2023/arranmore-kiosk/1_intro_arranmore_ferry.png"
-	alts="The Arranmore Ferry Kiosk is located on Burtonport Pier and is open now"
-%}
+![The Arranmore Ferry Kiosk is located on Burtonport Pier and is open now](/images/2023/arranmore-kiosk/1_intro_arranmore_ferry.png)
 
 # Download the app
 
@@ -96,7 +63,7 @@ Of course, if you're running late - or not on the ferry pier - you can download 
 
 # Thank You
 
-Thank you to everyone who made this project possible with their suggestions, ideas, advice and support. In particular I wanted to thank all the Arranmore Ferry team, especially Louise and Seamus for their patience in getting these ideas of the ground and their willingness to innovate.
+Thank you to everyone who made this project possible with their suggestions, ideas, advice and support. In particular I wanted to thank all the Arranmore Ferry team, especially Louise and Seamus for their patience in getting these ideas of the ground and their willingness to innovate.  
 
 > With this project, I believe The Arranmore Ferry must be one of, if not leading, the charge with digital innovation in Irish ferries.
 
