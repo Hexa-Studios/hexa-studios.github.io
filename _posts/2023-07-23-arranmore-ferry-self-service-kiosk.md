@@ -1,7 +1,7 @@
 ---
 title: "Arranmore Ferry Self Service Kiosk"
-date: 2023-04-23T14:39:00.000Z
-date_updated: 2023-04-23T14:55:09.000Z
+date: 2023-07-23T14:39:00.000Z
+date_updated: 2023-07-23T14:55:09.000Z
 tags: self-service ferries
 description: This weekend we've launched the Arranmore Ferry self service kiosk, the latest in the Arranmore Ferries' innovations and evolving platform.
 featured_image: /images/2023/arranmore-kiosk/2_intro_arranmore_ferry.png
