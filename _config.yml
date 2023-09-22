@@ -65,7 +65,7 @@ sass:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-image-optim
+  # - jekyll-image-optim
   - jekyll-redirect-from
 
 paginate: 7

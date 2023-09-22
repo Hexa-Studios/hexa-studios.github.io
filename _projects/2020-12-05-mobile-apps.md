@@ -3,12 +3,12 @@ title: Mobile Apps
 subtitle: Clean, simple and easy to use mobile applications on iOS and Android.
 date: 2020-12-05 00:00:00
 description: We work with our clients to determine their business needs, and develop mobile experiences to delight their customers.
-featured_image: mobile-apps/mobile-app-cover.png
+featured_image: mobile-apps/app-blue.jpg
 accent_color: '#6F1E51'
 gallery_images:
   - mobile-apps/app-blue.jpg
   - mobile-apps/Artboard1.jpg
-  - mobile-apps/mobile-app-2.jpg
+  # - mobile-apps/mobile-app-2.jpg
   - mobile-apps/mobile-app-3.jpg
 ---
 
@@ -43,7 +43,7 @@ We accepted the challenge and developed a control panel, API and mobile apps to 
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
-	images = "/images/2020/11/Artboard3.png,/images/2020/11/Artboard2.png,/images/2020/11/Artboard4.png"
+	images = "/images/2023/09/Artboard2.jpg,/images/2023/09/Artboard3.jpg,/images/2023/09/Artboard6.jpg"
 %}
 
 The final product brings together a wide range of features in an easy to use single app available on Android and iOS.
@@ -63,7 +63,7 @@ The final product brings together a wide range of features in an easy to use sin
 <br/>
 **Featured Images**
 
-1. Tory Ferry
-2. Hi Sign
-3. Arranmore Weather
+1. Seo Árainn Mhór
+2. Arranmore Weather
+3. Tory Ferry
 
