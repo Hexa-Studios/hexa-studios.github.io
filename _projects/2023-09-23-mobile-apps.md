@@ -1,7 +1,7 @@
 ---
 title: Mobile Apps
 subtitle: Clean, simple and easy to use mobile applications on iOS and Android.
-date: 2020-12-05 00:00:00
+date: 2023-09-23 00:00:00
 description: We work with our clients to determine their business needs, and develop mobile experiences to delight their customers.
 featured_image: mobile-apps/app-blue.jpg
 accent_color: '#6F1E51'
