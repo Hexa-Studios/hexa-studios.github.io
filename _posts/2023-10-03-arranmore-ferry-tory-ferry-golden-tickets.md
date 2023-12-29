@@ -29,6 +29,12 @@ If you're not lucky, you can still book your trip and visit Arranmore and Tory!
 
 Both apps have now rolled out the updates for Golden Tickets, just make sure you have the latest version of the app.
 
+
+{% include post-components/video.html
+	full_width = false
+	url = "https://www.youtube.com/embed/BIh_KvTZ364?si=NNp47hrdVx6SKNti"
+%}
+
 #### Arranmore Ferry
 
 You can download or update the Arranmore Ferry App using the below buttons which link to Google Play and Apple App Store.
